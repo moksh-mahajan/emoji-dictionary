@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #7895b2;
+  color: #f5efe6;
+}
+input {
+  border: none;
+  padding: 1rem;
+  width: 80%;
+  border-radius: 10px;
+}
